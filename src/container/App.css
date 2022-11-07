@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Spy Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Spy Regular'), url('Spy.woff') format('woff');
+    }
+
+    h1{
+        font-family: 'Spy Regular';
+        color: #3C4048;
+    }

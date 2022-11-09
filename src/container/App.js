@@ -1,4 +1,4 @@
-import { Component } from "react";
+import React, { Component } from "react";
 import CardList from "../components/CardList";
 import Searchbox from "../components/Searchbox";
 //import { robo } from "./robo";
